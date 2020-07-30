@@ -1,1 +1,0 @@
-# My-blog-theme-matery

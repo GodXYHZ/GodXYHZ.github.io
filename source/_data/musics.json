@@ -1,0 +1,23 @@
+[
+	{
+		"name": "自控",
+		"artist": "杜奕岑",
+		"url": "/medias/music/zikong.mp3",
+		"cover": "/medias/music/avatars/duyicen.jpg"
+	},{
+		"name": "泡沫",
+		"artist": "邓紫棋",
+		"url": "/medias/music/paomo.mp3",
+		"cover": "/medias/music/avatars/paomo.jpg"
+	},{
+		"name": "喜欢你",
+		"artist": "邓紫棋",
+		"url": "/medias/music/xihuanni.mp3",
+		"cover": "/medias/music/avatars/xihuanni.jpg"
+	},{
+		"name": "是非题",
+		"artist": "范玮琪",
+		"url": "/medias/music/shifeiti.mp3",
+		"cover": "/medias/music/avatars/shifeiti.jpg"
+	}
+]
